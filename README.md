@@ -1,5 +1,18 @@
 # Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation
 Project: Image Manipulation
+<br>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/0.jpg)<br/>0 Blur radius<br/><br/>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/2.5.PNG)<br/>2.5 Blur Radius<br/><br/> 
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/5.PNG)<br/>5 Blur Radius<br/><br/>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/10.PNG)<br/>10 Blur Radius<br/><br/>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/20.PNG)<br/>20 Blur Radius<br/><br/>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/40.PNG)<br/>40 Blur Radius<br/><br/>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/80.PNG)<br/>80 Blur Radius<br/><br/>
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/160.PNG)<br/>160 Blur Radius<br/><br/>
+
+
+
+
 >Follow Up: </br>
 
 <b>#1 This uses the importion of PIL or often refered Pillow Library. PIL is a closed project. It's been forked by developers around the world. Unofficially updated everyday under the name Pillow.</b>
