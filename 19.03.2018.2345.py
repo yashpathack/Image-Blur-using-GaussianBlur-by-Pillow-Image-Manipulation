@@ -11,6 +11,7 @@ image = Image.open(imagename)
 #Now we're gonna use Gaussian Blur to blur the image
 imageBlur = image.filter(ImageFilter.GaussianBlur (radius=20))
 #Radius simply specifies the amount of blur you want in the picture
+#You can adjust it as per shown in the readme.
 imageBlur.show() #This will just display the blurred image in the .BMP image format
    
 #Run the Module. A new file with the specified name will be generated. Adios!
