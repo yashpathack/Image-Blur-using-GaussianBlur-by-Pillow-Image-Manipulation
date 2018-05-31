@@ -55,8 +55,4 @@ $ sudo pip install Pillow
 </code></br></br>
 
 
-
-
-Now take up  from the repository and edit the simple two lines(The image name and output PDF name) so as to get the required PDF.
-
 Adios!
