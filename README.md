@@ -10,7 +10,7 @@ Project: Image Manipulation
 ![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/80.PNG)<br/>80x Blur Radius<br/><br/>
 ![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/160.PNG)<br/>160x Blur Radius<br/><br/>
 
-
+![alt text](https://github.com/yashpathack/Image-Blur-using-GaussianBlur-by-Pillow-Image-Manipulation/blob/master/Resources/carbon.png)<br/><i>Image</i><br/><br/>
 
 
 >Follow Up: </br>
